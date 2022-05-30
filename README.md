@@ -7,6 +7,6 @@ Se agregaria una mayor cantiadad de consumidores como tambien una mayor cantidad
 
 
 ## Instalar
-```python
+```bash
 docker-compose -d
 ```
